@@ -1,4 +1,4 @@
-DevOps platform engineer
+DevOps Platform Engineer
 
 
 #### Contacts
