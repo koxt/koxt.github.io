@@ -1,4 +1,4 @@
-I'm Damir Rakhimov, DevOps platform engineer.
+DevOps platform engineer
 
 
 #### Contacts
